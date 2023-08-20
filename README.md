@@ -1,1 +1,1 @@
-# Reversi(a.k.a. Othello) AI with Minimax Alogorithm and Alpha-Beta Pruning
+# Reversi AI with Minimax Alogorithm and Alpha-Beta Pruning
