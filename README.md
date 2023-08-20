@@ -1,1 +1,1 @@
-# Reversi(a.k.a. Othello) AI
+# Reversi (Othello) AI
