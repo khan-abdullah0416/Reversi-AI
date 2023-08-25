@@ -41,7 +41,6 @@ def minimax(game, depth, alpha, beta, max_player, window=None):
                 new_game.draw(window)
                 pygame.time.delay(100)
 
-
             evaluation = minimax(new_game, depth-1, alpha, beta, BLACK)[0]
             min_eval = min(min_eval, evaluation)
             beta = min(beta, evaluation)
