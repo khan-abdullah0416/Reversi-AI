@@ -13,3 +13,9 @@ White squares indicte legal moves to place your disks, while a circle highlighte
 The score and the which player's turn it is, is displayed at the bottom of the window.
 
 When a player wins the game the game is paused for 3 - 5 seconds and then starts again.
+
+## Making your own board
+
+It is possible to use the board as a package. I would recommend anyone who wants to make their own board to first inherit the `Board` class and then override the `display` function.
+
+...in progress...
